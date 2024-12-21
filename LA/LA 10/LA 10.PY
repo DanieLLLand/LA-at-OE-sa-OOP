@@ -1,3 +1,5 @@
+print("LA 10")
+
 class Vehicle():
 
     def __init__(self, brand, model, fuel_type):
